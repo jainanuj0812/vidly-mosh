@@ -1,5 +1,5 @@
 # vidly-mosh
 
-Node JS pactice application.
+Node JS practice application.
 
 Will update the utilities soon...
