@@ -1,4 +1,5 @@
 {
   "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "description": "need to remove above key"
+  "description": "need to remove above key",
+  "db": "mongodb://localhost/vidly"
 }
