@@ -2,4 +2,4 @@
 
 Node JS practice application.
 
-Will update the utilities soon...
+The main moto of vidly-mosh is to manage the rental sell of the movies(online/offline).
